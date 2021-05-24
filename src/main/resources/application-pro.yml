@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blog?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: admin
+  jpa:
+    hibernate:
+      ddl-auto: none
+    # sql文をコンソールとログファイルに出力する
+    show-sql: true
+
+logging:
+  level:
+    root: warn
+    com.zzy: info
+  # ログの出力するパスを指定
+  file:
+    path: log/blog.log
+server:
+  port: 8081
+#　生産環境
