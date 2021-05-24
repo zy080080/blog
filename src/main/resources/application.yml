@@ -1,9 +1,0 @@
-spring:
-  thymeleaf:
-    mode: HTML
-#    起動時の環境を指定
-  profiles:
-    active: dev
-  # 設定ファイルがresourceにない場合，パスを指定
-#  messages:
-#    basename: i18n/messages
