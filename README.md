@@ -18,51 +18,66 @@ Markdown Editor： [editor.md](https://pandao.github.io/editor.md/en.html)
 QRcode生成：[qrcode.js](https://davidshimjs.github.io/qrcodejs/)
 
 
-ホームページ
+## ホームページ
+
 ![homepage](screenshot/HomePage.png)
 
-記事ページ
+## 記事ページ
+
 ![articlepage](screenshot/ArticlePage.png)
 
-Markdownで書かれた記事から目次自動生成
+## Markdownで書かれた記事から目次自動生成
+
 ![articlepage](screenshot/catalog.png)
 
-ページのリンクをQRコードで表示
+## ページのリンクをQRコードで表示
+
 ![articlepage](screenshot/QRCode.png)
 
-カテログページ
+## カテログページ
+
 ![articlepage](screenshot/CategoryPage.png)
 
-タグページ
+## タグページ
+
 ![articlepage](screenshot/TagPage.png)
 
-アーカイブページ
+## アーカイブページ
+
 ![articlepage](screenshot/ArchivePage.png)
 
-![articlepage](screenshot/QRCode.png)
+## About meページ
 
-About meページ
 ![articlepage](screenshot/AboutPage.png)
 
-ログインページ
+## ログインページ
+
 username: zzy
+
 password: admin
+
 ![articlepage](screenshot/LoginPage.png)
 
-ログイン成功ページ
+## ログイン成功ページ
+
 ![articlepage](screenshot/LoginHomePage.png)
 
-記事管理ページ
+## 記事管理ページ
+
 ![articlepage](screenshot/BackendBlogPage.png)
 
-記事編集ページ
+## 記事編集ページ
+
 ![articlepage](screenshot/ModifyPage.png)
 
-記事新規ページ
+## 記事新規ページ
+
 ![articlepage](screenshot/CreateBlog.png)
 
-カテゴリ管理ページ（タグも同様）
+## カテゴリ管理ページ（タグも同様）
+
 ![articlepage](screenshot/BackendCategoryPage.png)
 
-カテゴリ新規ページ（タグも同様）
+## カテゴリ新規ページ（タグも同様）
+
 ![articlepage](screenshot/BackendCreateCategory.png)
